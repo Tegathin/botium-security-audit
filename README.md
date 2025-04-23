@@ -36,7 +36,7 @@ This project is part of my cybersecurity portfolio, completed during my training
 
 👉 [Download the Botium Toys Final Audit Report (PDF)](./Botium_Toys_Final_Audit_Report.pdf) 
 📄 You can view the full audit report here:  
-[Download the report](https://chat.openai.com/sandbox:/mnt/data/Botium%20Toys%20%E2%80%93%20Final%20Security%20Audit%20Report.docx)
+https://docs.google.com/document/d/1XZbYfKiYaIijVZO2PiFyGmvJTZKZSTX-/edit?usp=drive_link&ouid=104335313360860717198&rtpof=true&sd=true
 
 
 The report outlines:
