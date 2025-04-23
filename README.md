@@ -33,8 +33,7 @@ This project is part of my cybersecurity portfolio, completed during my training
 ---
 
 ## 📄 Final Report 
-https://docs.google.com/document/d/1XZbYfKiYaIijVZO2PiFyGmvJTZKZSTX-/edit?usp=drive_link&ouid=104335313360860717198&rtpof=true&sd=true
-
+https://docs.google.com/document/d/1XZbYfKiYaIijVZO2PiFyGmvJTZKZSTX-/edit?usp=sharing&ouid=104335313360860717198&rtpof=true&sd=true
 
 The report outlines:
 - Risk score: **8/10**
