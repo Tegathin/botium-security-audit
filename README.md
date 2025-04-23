@@ -34,7 +34,7 @@ This project is part of my cybersecurity portfolio, completed during my training
 
 ## 📄 Final Report
 
-👉 [Download the Botium Toys Final Audit Report (PDF)](./Botium_Toys_Final_Audit_Report.pdf)
+👉 [Download the Botium Toys Final Audit Report (PDF)](./Botium_Toys_Final_Audit_Report.pdf) Botium Toys – Final Security Audit Report.docx
 
 The report outlines:
 - Risk score: **8/10**
