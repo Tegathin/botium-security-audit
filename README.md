@@ -51,4 +51,4 @@ This project laid the groundwork for more advanced audits and assessments. Futur
 - Follow-up evaluations and testing strategies
 📬 **Questions or feedback?**  
 Reach out via email: [tsegbemiukubeyinje@gmail.com](mailto:tsegbemiukubeyinje@gmail.com)  
-Or connect on [LinkedIn](https://www.linkedin.com/in/tsegbemi-oghenetega-ukubeyinje)
+Or connect on [LinkedIn] https://www.linkedin.com/in/tsegbemi-ukubeyinje-27726919a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
